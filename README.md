@@ -65,6 +65,9 @@ This is the most important preparation part of the whole preparation. Your compl
     - Basic concepts of the system design 
         - https://roadmap.sh/system-design This helps and enumerates the basic concepts
         - https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#real-world-architectures This can help too.
+        - https://www.educative.io/courses/grokking-the-system-design-interview/the-all-in-one-system-design-master-template
+        - List of the concepts in this course https://www.designgurus.io/course/grokking-the-system-design-interview
+        - https://github.com/karanpratapsingh/system-design
 
 
 
